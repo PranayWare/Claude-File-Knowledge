@@ -1,0 +1,23 @@
+Subject: Senior Security Engineer application — Eventus Security (Navi Mumbai)
+
+Hi Vaishnavi,
+
+I came across the Senior Security Engineer role at Eventus Security's Sanpada office and the match with my background is strong enough that I wanted to reach out directly.
+
+Quick context: 4 years in SOC operations (Tier 2/3), 2 years hands-on with Trend Micro Apex One/Vision One, and SIEM rule writing (Splunk/QRadar). I've managed 24/7 shift coverage, escalated to engineering teams, and maintained SLA compliance across 150+ endpoints. The job description's focus on Trend Micro product support, malware analysis, and Tier 1/2 troubleshooting aligns exactly with my day-to-day for the past two years.
+
+What drew me to Eventus: CERT-In empanelment, the AI-driven SecOps platform, and the explicit focus on managed SOC services — that's the environment I want to grow in. The Sanpada location is also ideal for me.
+
+I've attached my CV. Would welcome a brief conversation to discuss how I can contribute to the team.
+
+Best regards,
+Prana
++91-XXXXXXXXXX
+LinkedIn: linkedin.com/in/prana-security
+
+---
+Role: Senior Security Engineer
+Location: Sanpada Office, Navi Mumbai
+Source: https://eventussecurity.com/careers/senior-security-engineer/
+Contact: Vaishnavi Ambatkar, Talent Acquisition (LinkedIn verified)
+Date: 2026-07-26
