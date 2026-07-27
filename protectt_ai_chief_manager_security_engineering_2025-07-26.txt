@@ -1,0 +1,18 @@
+Subject: Chief Manager, Security Engineering application — Protectt.ai (Mumbai, Andheri East)
+
+Hi Talent Acquisition Team,
+
+I'm writing about the Chief Manager, Security Engineering position at Protectt.ai in Mumbai (Andheri East). My background aligns closely with what you're looking for:
+
+- 4 years in endpoint security and Tier 2/3 escalation (SOC operations, detection engineering)
+- Hands-on with Trend Micro Vision One/XDR, Splunk, CrowdStrike Falcon
+- CompTIA Security+, CySA+ (CS0-003), Trend Micro Certified Professional
+- Reduced sensor-offline MTTR by 38% via automated PowerShell health checks
+
+I'm based in Navi Mumbai (Vashi) and available for on-site/hybrid in Mumbai. Would welcome a brief conversation.
+
+Best,
+Pranay Ware
++91 8591056523
+pranayware898@gmail.com
+linkedin.com/in/prana-security

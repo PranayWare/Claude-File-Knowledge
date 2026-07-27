@@ -1,0 +1,25 @@
+Subject: Senior Security Engineer — Navi Mumbai (Sanpada Office) — Application
+
+Hi Eventus Security Team,
+
+I'm writing to apply for the Senior Security Engineer role based at your Sanpada Office in Navi Mumbai (Ref: careers@eventussecurity.com / careers page listing).
+
+Background: 4 years in technical support and Tier 2/3 escalation for endpoint security products (Trend Micro Apex One, CrowdStrike Falcon, Microsoft Defender for Endpoint). Currently handling 24/7 shift coverage, malware triage, sensor health monitoring, and cross-team escalation to engineering for false-positive tuning and kernel-level driver issues.
+
+What draws me to Eventus: your AI-driven SecOps platform (XDR-powered SOC, Eventus Security Data Lake) and the CERT-In empanelment — rare for a Mumbai/Navi Mumbai-based MSSP operating at 350+ headcount. The Senior Security Engineer JD's focus on Trend Micro Vision One / Apex One aligns directly with my day-to-day.
+
+Highlights:
+- Trend Micro Certified Professional (TMCP) — active
+- CompTIA Security+, CySA+ (CS0-003)
+- Reduced mean-time-to-resolve for sensor-offline alerts by 38% via automated health-check script (PowerShell + REST API)
+- Built internal runbook for Vision One Workbench investigations adopted by L1 team
+
+CV attached. Available for a technical screen this week. Based in Navi Mumbai (Vashi), can report to Sanpada on-site immediately.
+
+Thank you for your time.
+
+Regards,
+[Your Name]
+Phone: [Your Phone]
+LinkedIn: [Your LinkedIn]
+Location: Navi Mumbai, Maharashtra
